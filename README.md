@@ -18,6 +18,7 @@ https://aigateway.akile.ai/v1
 - 查询调用用量、错误请求和消费记录。
 - 通过充值、兑换码或订阅获得可用额度。
 - 使用邀请返利、余额通知、订单记录等账户能力。
+- 用 CC Switch 管理 Claude Code、Codex、OpenCode 等开发工具的网关配置。
 
 ## 快速开始
 

@@ -24,6 +24,10 @@
 * [订阅与邀请返利](docs/console/subscriptions-affiliate.md)
 * [个人资料与通知](docs/console/profile.md)
 
+## 第三方工具
+
+* [CC Switch 接入教程](docs/tools/ccswitch.md)
+
 ## 支持
 
 * [安全建议](docs/support/security.md)
